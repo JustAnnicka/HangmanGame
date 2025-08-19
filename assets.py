@@ -1,8 +1,8 @@
 import random
 
 words_english = ["aardvark", "baboon", "camel", "love"]
-words_spanish = ["amor", "alma", "buenas", "cuchilo", "dia"]
-words_german = ["antrag", "arbeit", "bett", "beton", "dienstag"]
+words_spanish = ["amor", "alma", "buenas", "cuchillo", "dia"]
+words_german = ["antrag", "arbeit", "bett", "beton", "dienstag","liebe"]
 word_list = [words_english, words_spanish, words_german]
 #chosen_word = random.choice(word_list)
 # word_len = len(chosen_word)
